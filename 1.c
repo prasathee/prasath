@@ -2,4 +2,5 @@
 main()
 {
     printf("");
+    printf("VVDN..\n");
 }
