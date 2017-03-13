@@ -1,6 +1,2 @@
-#include<stdio.h>
-main()
-{
-    printf("");
-    printf("VVDN..\n");
-}
+1.c
+README.md
